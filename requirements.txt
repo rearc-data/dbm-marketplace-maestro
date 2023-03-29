@@ -1,0 +1,6 @@
+requests==2.27.1
+json==2.0.9
+pandas==1.4.2
+ydata_profiling==v4.1.2
+plotly==5.6.0
+re==2.2.1
