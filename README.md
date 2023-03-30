@@ -1,4 +1,4 @@
-# Databricks Marketplace Notebook Auto-Generation
+# Marketplace Maestro: Notebook Generator for Databricks
 
 This notebook is used to generate and deploy notebooks in bulk to the Databricks Marketplace. The notebook takes the following steps:
 1. Retrieves the API URL, token, user, and workspace ID associated with the notebook's context, if they exist.
